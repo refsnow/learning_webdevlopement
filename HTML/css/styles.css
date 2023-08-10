@@ -1,0 +1,18 @@
+body{
+    background-color: red;
+
+}
+#box_1{
+     width: 300px;
+    height: 600px;
+    /* background-image: url(https://img.freepik.com/premium-photo/golden-retriever-lying-panting-isolated-white_191971-16974.jpg); */
+    /* background-position: center; */
+
+    /* background-repeat:no-repeat; */
+    /* border-style: dashed;
+    border-color: cyan;
+    border-width: 3px; */
+    border:dashed cyan 6px;
+    background:  url("https://img.freepik.com/premium-photo/golden-retriever-lying-panting-isolated-white_191971-16974.jpg")  no-repeat left;
+    background-size: cover;
+}

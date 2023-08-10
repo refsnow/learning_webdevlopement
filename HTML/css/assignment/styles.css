@@ -1,0 +1,55 @@
+body, html{
+    height: 100%;
+    box-sizing: content-box;
+
+}
+
+body{
+    background-image:url("https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?cs=srgb&dl=pexels-simona-kidri%C4%8D-2607544.jpg&fm=jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+img{
+    border-color:black;
+    border-width: 3px;
+    border-style:dashed;
+
+}
+h1{
+    color: green;
+    text-align: center;
+    
+}
+h2{
+    color:green;
+    text-decoration: underline;
+    font-size: 20px;
+}
+h3{
+    color: rgb(23, 78, 180);
+    font-size: 20px;
+    font-style: italic;
+}
+h4{
+    font-size: 30px;
+    color: black;
+    font-style: bold;
+}
+h5{
+    color: aqua;
+    ol.c{
+        list-style-type: disc;
+        font-size: 25px;
+    }
+}
+a{color: blue;
+    text-decoration: underline;
+    text-align: left;
+
+}
+
+
